@@ -16,8 +16,8 @@ You can add your Device names and their ID's to simply send notification using t
 ```
 sudo nano Remotealert.py
 ```
-Replace device1 with your device name like galaxys6 and add its ID below, similary you can add more devices.
+Replace "device1" with your device name like "galaxys6" and add its ID replacing "device1_id", similary you can add more devices..
 
 Then you can use:
-ex. ```sudo python Remotealert.py galaxys6 'my_message'```
-and you will receive a notification on your device
+e.g. ```sudo python Remotealert.py galaxys6 'my_message'```
+and you will receive a notification on your device.
