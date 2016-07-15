@@ -3,7 +3,7 @@ Allows sending notifications which can be retreived using the RemoteAlert notifi
 https://play.google.com/store/apps/details?id=com.soy.remotealert
 
 <p align="center">
-![Alt text](http://i.imgur.com/djN917n.png "Terminal")
+<img>![Alt text](http://i.imgur.com/djN917n.png "Terminal")</img>
 ![Alt text](http://i.imgur.com/mvCnOdN.png "Terminal")
 </p>
 
