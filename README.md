@@ -2,8 +2,8 @@
 Allows sending notifications which can be retreived using the RemoteAlert notification app in the store
 https://play.google.com/store/apps/details?id=com.soy.remotealert
 
-![Alt text](http://i.imgur.com/djN917n.png "Terminal")
-![Alt text](http://i.imgur.com/mvCnOdN.png "Terminal")
+<img src="http://i.imgur.com/djN917n.png" width="290">
+<img src="http://i.imgur.com/mvCnOdN.png" width="290">
 
 # Installation & Usage:
 ```
