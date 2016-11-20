@@ -9,7 +9,8 @@ git clone https://github.com/Ritiek/Remotealert
 cd Remotealert
 sudo python Remotealert.py
 ```
-ex. ```sudo python Remotealert.py a32b831c-7623-4c43-99cf-b614ff54e902 'my_message'```
+ex. `sudo python Remotealert.py a32b831c-7623-4c43-99cf-b614ff54e902 'my_message'`
+
 You can add your Device names and their ID's to simply send notification using the Device name instead of typing the full ID by editing the script:
 ```
 sudo nano Remotealert.py
@@ -17,5 +18,5 @@ sudo nano Remotealert.py
 Replace "device1" with your device name like "galaxys6" and add its ID replacing "device1_id", similary you can add more devices..
 
 Then you can use:
-ex. ```sudo python Remotealert.py galaxys6 'my_message'```
+ex. `sudo python Remotealert.py galaxys6 'my_message'`
 and you will receive a notification on your device.
