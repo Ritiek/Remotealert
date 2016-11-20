@@ -11,10 +11,12 @@ sudo python Remotealert.py
 ```
 ex. `sudo python Remotealert.py a32b831c-7623-4c43-99cf-b614ff54e902 'my_message'`
 
-You can add your Device names and their ID's to simply send notification using the Device name instead of typing the full ID by editing the script:
-```
-sudo nano Remotealert.py
-```
+## Alias for ID:
+
+You can add your Device names and their ID's to simply send notification using the Device name instead of typing the full ID everytime by editing the script:
+
+`sudo nano Remotealert.py`
+
 Replace "device1" with your device name like "galaxys6" and add its ID replacing "device1_id", similary you can add more devices..
 
 Then you can use:
